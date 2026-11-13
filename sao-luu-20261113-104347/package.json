@@ -1,0 +1,12 @@
+{
+  "name": "ai-company",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Công ty phần mềm vận hành bằng AI: bảng điều khiển, văn phòng 3D và dây chuyền làm việc của các agent.",
+  "type": "module",
+  "engines": { "node": ">=22.5" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
